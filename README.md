@@ -1,8 +1,8 @@
 # Marienbad en java 👾
 2 versions sont disponibles :
 <br>
-<BLOCKQUOTE>1.Joueur vs Joueur</BLOCKQUOTE>
+</t>1.Joueur vs Joueur
 <br>
-<BLOCKQUOTE>2.Joueur vs Ordinateur</BLOCKQUOTE>
+</t>2.Joueur vs Ordinateur
 
 L'ordinateur est très intelligent, bonne chance pour gagner 🫡​
